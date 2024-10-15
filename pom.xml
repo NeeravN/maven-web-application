@@ -138,11 +138,11 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-war-plugin</artifactId>
-				<version>4.0.0</version>
+				<version>3.3.1</version>
 				<configuration>
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
-					<wtpversion>4.0.0</wtpversion>
+					<wtpversion>3.3.1</wtpversion>
 					<wtpContextName>maven-web-application</wtpContextName>
 				</configuration>
 			</plugin>
